@@ -1,6 +1,6 @@
-# DATA MANIPULATION
+## Data Manipulation
 
-## Introduction:
+### Introduction:
 This set of tasks involves the manipulation of data using SQL within the MySQL database. The primary objective of these tasks is to serve as a guide for understanding the various aspects of data manipulation within MySQL tables. Through these tasks, I have gained insights in areas such as replacing data, altering text, merging data, and data cleaning. 
 
 
